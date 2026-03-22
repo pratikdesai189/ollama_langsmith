@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-openai
+langchain_classic
+ipykernel
+langchain_core
+bs4
+langchain_community
+langchain_text_splitters
+faiss-cpu
+streamlit
+langchain-ollama
